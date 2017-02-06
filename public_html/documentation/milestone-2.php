@@ -17,6 +17,9 @@
 		<h3>Contact Me</h3>
 		<p>This section will contain a short form that can be filled out in order to contact me via email. It will also contain a Linkedin icon at the bottom that will redirect the user to my Linkedin profile.</p>
 		<h3>Mockups</h3>
-		<img src="../images/browser-mockup.png"
+		<h4>Browser</h4>
+		<img src="../../images/browser-mockup.png" alt="browser mockup"/>
+		<h4>Mobile</h4>
+		<img src="../../images/mobile-mockup.png" alt="mobile mockup"/>
 	</body>
 </html>
